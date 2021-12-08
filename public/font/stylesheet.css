@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('./Roboto-Regular.ttf');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir-Next';
+    src: url('./AvenirNextLTPro-Regular.otf');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('./Mont-ExtraLight.otf');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Mont-Bold';
+    src: url('./Mont-Bold.ttf');
+    font-style: normal;
+}
+
+
